@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+nav il {
+  display: inline-block;
+}
+nav a {
+  text-decoration: none;
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
